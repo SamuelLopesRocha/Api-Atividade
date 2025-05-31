@@ -1,6 +1,9 @@
-# Atividades-go
+# Atividades
 
-Projeto de microserviços em Go para gerenciamento de atividades, professores, alunos e disciplinas.
+Projeto de microserviços em Python para gerenciamento de atividades.
+
+Relacionameto direto com a API school system
+
 
 ## Estrutura
 
